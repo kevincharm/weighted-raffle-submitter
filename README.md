@@ -3,7 +3,7 @@
 ## Installation
 
 1. Ensure you have `yarn` and `node>=22` installed
-1. Install dependencies by running `yarn
+1. Install dependencies by running `yarn`
 
 ## Usage
 
